@@ -1,7 +1,7 @@
 
 ## 🚀 Prompt Design in Vertex AI: Challenge Lab GSP519| [Link truy cập bài lab](https://www.cloudskillsboost.google/focuses/86504?parent=catalog)
 
-### 🔗 **Solution Video:** [Xem video hướng dẫn tại đây]()
+### 🔗 **Solution Video:** [Xem video hướng dẫn tại đây](https://youtu.be/wIGZxxZ9ijs)
 
 ---
 
