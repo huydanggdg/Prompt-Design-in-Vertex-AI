@@ -8,7 +8,7 @@
 ## 🌐 **Hướng dẫn cách làm:**
 
  **Khởi chạy Vertex AI:**  
-   Start your Google Vertex AI session by [clicking here](https://console.cloud.google.com/vertex-ai/studio/saved-prompts?project=).
+   Start your Google Vertex AI session by [Click here](https://console.cloud.google.com/vertex-ai/studio/saved-prompts?project=).
 
 - **Bạn có thể tải các Files dưới nếu gặp khó khăn trong quá trình làm Labs (Tên file phải đúng mới hoàn thành được thử thách):**
 
