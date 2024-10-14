@@ -43,20 +43,17 @@ Hãy cân nhắc các phong cách như tối giản.                            
 - In the Test box, add the following input:
 
 ```bash
-Write a tagline for a lightweight tent designed for seasoned explorers that makes them feel free. Consider styles like poetic.
+Viết một khẩu hiệu cho một chiếc lều phong cách tối giản được thiết kế cho những nhà thám hiểm dày dạn kinh nghiệm, giúp họ cảm thấy tự do. Hãy cân nhắc các phong cách như thơ ca.
 ```
 
 ---
 
-## 🎉 **Lab Completed!**
+## 🎉 **Lab đã hoàn thành!**
 
-You've successfully demonstrated your skills and determination by completing the lab. **Well done!**
+Bạn đã chứng minh thành công kỹ năng và quyết tâm của mình bằng cách hoàn thành bài thực hành. **Well done!**
 
-### 🌟 **Stay Connected!**
+### 🌟 **Hãy kết nối và đặt cho tôi câu hỏi!**
 
-- 🔔 **Join our [Telegram Channel](https://t.me/quiccklab)** for the latest updates.
-- 🗣 **Participate in the [Discussion Group](https://t.me/Quicklabchat)** and engage with fellow learners.
-- 💬 **Join our [Discord Server](https://discord.gg/7fAVf4USZn)** for more interactive discussions.
 - 💼 **Follow us on [LinkedIn](https://www.linkedin.com/company/quicklab-linkedin/)** to stay updated with the latest news and opportunities.
   
 ---
