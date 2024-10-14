@@ -12,11 +12,11 @@
 
 - **Bạn có thể tải các Files dưới nếu gặp khó khăn trong quá trình làm Labs (Tên file phải đúng mới hoàn thành được thử thách):**
 
-**Cymbal Product Analysis.json:**  [Click Here]()
+**Cymbal Product Analysis.json:**  [Click Here](https://github.com/huydanggdg/Prompt-Design-in-Vertex-AI/blob/main/Cymbal%20Product%20Analysis.json)
 
-**tagline-generator.ipynb:**  [Click Here]()
+**tagline-generator.ipynb:**  [Click Here](https://github.com/huydanggdg/Prompt-Design-in-Vertex-AI/blob/main/tagline-generator.ipynb)
 
-**image-analysis.ipynb:**  [Click Here]()
+**image-analysis.ipynb:**  [Click Here](https://github.com/huydanggdg/Prompt-Design-in-Vertex-AI/blob/main/image-analysis.ipynb)
 
 ---
 
