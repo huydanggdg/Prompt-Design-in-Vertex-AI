@@ -7,10 +7,10 @@
 
 ## 🌐 **Hướng dẫn cách làm:**
 
- **Launch Vertex AI:**  
+ **Khởi chạy Vertex AI:**  
    Start your Google Vertex AI session by [clicking here](https://console.cloud.google.com/vertex-ai/studio/saved-prompts?project=).
 
-- **Download Below Files:**
+- **Bạn có thể tải các Files dưới nếu gặp khó khăn trong quá trình làm Labs (Tên file phải đúng mới hoàn thành được thử thách):**
 
 **Cymbal Product Analysis.json:**  [Click Here]()
 
@@ -20,12 +20,12 @@
 
 ---
 
-- **Change the Model Name, File Name & Output Format as shown in video**
+- **Thay đổi Model Name, File Name & Output Format theo như video hướng dẫn bên trên**
 
-**System instructions:**
+**Thêm nội dung vào System instructions:**
 
 ```bash
-Cymbal Direct is an outdoor gear retailer. They're launching a new line of products designed to encourage young people to explore the outdoors. Help them create catchy taglines for this product line.
+Cymbal Direct là nhà bán lẻ thiết bị ngoài trời. Họ đang tung ra dòng sản phẩm mới được thiết kế để khuyến khích những người trẻ tuổi khám phá hoạt động ngoài trời. Hãy giúp họ tạo ra những khẩu hiệu hấp dẫn cho dòng sản phẩm này.
 ```
 
 ---
@@ -35,8 +35,9 @@ Cymbal Direct is an outdoor gear retailer. They're launching a new line of produ
 
 | Input                                                                                                                                     | Output                                             |
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| Write a tagline for a durable backpack designed for hikers that makes them feel prepared. Consider styles like minimalist.                 | Built for the Journey: Your Adventure Essentials.  |
-| Write a tagline for an eco-friendly rain jacket designed for families that makes them feel connected. Consider styles like playful, with a touch of humor. | Explore More, Worry Less. Weather the fun together! |
+| Viết một khẩu hiệu cho một chiếc ba lô bền được thiết kế cho người đi bộ đường dài giúp họ cảm thấy được chuẩn bị. 
+Hãy cân nhắc các phong cách như tối giản.                                                                                                   |Được thiết kế cho chuyến đi: Những vật dụng cần thiết cho chuyến phiêu lưu của bạn.  |
+| Viết một khẩu hiệu cho một chiếc áo mưa thân thiện với môi trường được thiết kế cho các gia đình khiến họ cảm thấy gắn kết. Hãy cân nhắc các phong cách như vui tươi, với một chút hài hước. | Khám phá nhiều hơn, lo lắng ít hơn. Cùng nhau vượt qua niềm vui! |
 
 
 - In the Test box, add the following input:
